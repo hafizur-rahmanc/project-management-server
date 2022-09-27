@@ -1,0 +1,18 @@
+{
+    "name": "project-management",
+    "description": "Example in memory project management API with json-server by Hafizur Rahman",
+    "version": "1.0.0",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "keywords": [],
+    "author": "Hafizur Rahman",
+    "dependencies": {
+        "express": "^4.18.1",
+        "json-server": "^0.17.0",
+        "json-server-auth": "^2.1.0",
+        "nodemon": "^2.0.19",
+        "socket.io": "^4.5.2"
+    }
+}

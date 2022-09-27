@@ -1,0 +1,208 @@
+{
+  "users": [
+    {
+      "email": "sumit@learnwithsumit.com",
+      "password": "$2a$10$AOmazjLAxsW3WwbC5f8VNeP4IJc1hhvOU5TnnA1cIDgRW1v.Vv4Fi",
+      "name": "Sumit Saha",
+      "avatar": "https://avatars.githubusercontent.com/u/1416832?v=4",
+      "id": 1
+    },
+    {
+      "email": "akash@learnwithsumit.com",
+      "password": "$2a$10$W0jkGxOzuJBmDyStV6MwlunhRQAMMIoDKktpiUkC6lAt5RR4RtQ.a",
+      "name": "Akash Ahmed",
+      "avatar": "https://randomuser.me/api/portraits/men/46.jpg",
+      "id": 2
+    },
+    {
+      "email": "hafizur@gmail.com",
+      "password": "$2a$10$aSVxXXzuDQ0sUxYpQdvJA.W206Cg4LPOP6msommbTK36qX44Z.432",
+      "name": "Hafizur Rahman",
+      "avatar": "https://avatars.githubusercontent.com/u/14155626?v=4",
+      "id": 3
+    },
+    {
+      "email": "andrew@gmail.com",
+      "password": "$2a$10$rnM409A9WMOdhWkyONsmoOpFvUQMta4/fD5hViqx36cK7IUYePukC",
+      "name": "Andrew Chen",
+      "avatar": "https://avatars.githubusercontent.com/u/8019410?v=4",
+      "id": 4
+    }
+  ],
+  "teams": [
+    {
+      "name": "Design",
+      "title": "This is the title of the card for the thing that needs to be done.",
+      "owner": "sumit@learnwithsumit.com",
+      "color": "pink",
+      "members": [
+        "sumit@learnwithsumit.com",
+        "akash@learnwithsumit.com",
+        "andrew@gmail.com",
+        "hafizur@gmail.com"
+      ],
+      "timestamp": 1662705002231,
+      "id": 1
+    },
+    {
+      "name": "Dev",
+      "title": "This is the title of the card for the thing that needs to be done.",
+      "owner": "sumit@learnwithsumit.com",
+      "color": "green",
+      "members": [
+        "sumit@learnwithsumit.com",
+        "akash@learnwithsumit.com",
+        "hafizur@gmail.com",
+        "andrew@gmail.com"
+      ],
+      "timestamp": 1662705002231,
+      "id": 2
+    },
+    {
+      "name": "Test",
+      "title": "This is the title of the card for the thing that needs to be done.",
+      "owner": "sumit@learnwithsumit.com",
+      "color": "purple",
+      "members": [
+        "sumit@learnwithsumit.com",
+        "akash@learnwithsumit.com",
+        "andrew@gmail.com",
+        "hafizur@gmail.com"
+      ],
+      "timestamp": 1662705002231,
+      "id": 3
+    },
+    {
+      "name": "Business",
+      "title": "This is a business team",
+      "color": "blue",
+      "owner": "sumit@learnwithsumit.com",
+      "members": [
+        "sumit@learnwithsumit.com",
+        "hafizur@gmail.com",
+        "akash@learnwithsumit.com",
+        "andrew@gmail.com"
+      ],
+      "timestamp": "2022-09-24T18:52:32.508Z",
+      "id": 4
+    },
+    {
+      "name": "Development",
+      "title": "Agile development team",
+      "color": "green",
+      "owner": "sumit@learnwithsumit.com",
+      "members": [
+        "sumit@learnwithsumit.com",
+        "hafizur@gmail.com",
+        "akash@learnwithsumit.com",
+        "andrew@gmail.com"
+      ],
+      "timestamp": "2022-09-24T19:04:50.212Z",
+      "id": 5
+    },
+    {
+      "name": "AI",
+      "title": "Artificial Intelligence Team",
+      "color": "purple",
+      "owner": "sumit@learnwithsumit.com",
+      "members": [
+        "sumit@learnwithsumit.com",
+        "akash@learnwithsumit.com",
+        "hafizur@gmail.com",
+        "andrew@gmail.com"
+      ],
+      "timestamp": "2022-09-26T04:23:38.874Z",
+      "id": 7
+    },
+    {
+      "name": "Copywriting",
+      "title": "Copywriting Portfolio Team",
+      "color": "indigo",
+      "owner": "sumit@learnwithsumit.com",
+      "members": [
+        "sumit@learnwithsumit.com"
+      ],
+      "timestamp": "2022-09-27T03:50:24.398Z",
+      "id": 8
+    }
+  ],
+  "projects": [
+    {
+      "team": "Dev",
+      "title": "Ongoing Development Project",
+      "color": "green",
+      "owner": "sumit@learnwithsumit.com",
+      "match": false,
+      "stage": "Doing",
+      "timestamp": "2022-09-26T04:23:38.874Z",
+      "avatar": "https://avatars.githubusercontent.com/u/1416832?v=4",
+      "id": 1
+    },
+    {
+      "team": "Design",
+      "title": "This is our new Design Project",
+      "color": "pink",
+      "owner": "sumit@learnwithsumit.com",
+      "match": false,
+      "stage": "Done",
+      "timestamp": "2022-09-26T04:23:38.874Z",
+      "avatar": "https://avatars.githubusercontent.com/u/1416832?v=4",
+      "id": 2
+    },
+    {
+      "team": "Test",
+      "title": "Our all famous Test Project",
+      "color": "purple",
+      "owner": "sumit@learnwithsumit.com",
+      "match": false,
+      "stage": "Doing",
+      "timestamp": "2022-09-26T04:23:38.874Z",
+      "avatar": "https://avatars.githubusercontent.com/u/1416832?v=4",
+      "id": 3
+    },
+    {
+      "team": "Business",
+      "title": "This is our oldest Business Project",
+      "color": "blue",
+      "owner": "sumit@learnwithsumit.com",
+      "match": false,
+      "stage": "Backlog",
+      "timestamp": "2022-09-26T04:23:38.874Z",
+      "avatar": "https://avatars.githubusercontent.com/u/1416832?v=4",
+      "id": 4
+    },
+    {
+      "team": "Development",
+      "title": "Agile Development Project",
+      "color": "green",
+      "owner": "sumit@learnwithsumit.com",
+      "match": false,
+      "stage": "Backlog",
+      "timestamp": "2022-09-26T04:23:38.874Z",
+      "avatar": "https://avatars.githubusercontent.com/u/1416832?v=4",
+      "id": 5
+    },
+    {
+      "team": "Copywriting",
+      "title": "Copywriting Portfolio Project",
+      "color": "indigo",
+      "owner": "sumit@learnwithsumit.com",
+      "match": false,
+      "stage": "Review",
+      "timestamp": "2022-09-26T04:23:38.874Z",
+      "avatar": "https://avatars.githubusercontent.com/u/1416832?v=4",
+      "id": 6
+    },
+    {
+      "team": "AI",
+      "title": "Artificial Intelligence Development Project",
+      "color": "purple",
+      "owner": "sumit@learnwithsumit.com",
+      "match": false,
+      "stage": "Ready",
+      "timestamp": "2022-09-26T04:23:38.874Z",
+      "avatar": "https://avatars.githubusercontent.com/u/1416832?v=4",
+      "id": 7
+    }
+  ]
+}
