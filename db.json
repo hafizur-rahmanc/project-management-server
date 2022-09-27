@@ -37,9 +37,7 @@
       "color": "pink",
       "members": [
         "sumit@learnwithsumit.com",
-        "akash@learnwithsumit.com",
-        "andrew@gmail.com",
-        "hafizur@gmail.com"
+        "akash@learnwithsumit.com"
       ],
       "timestamp": 1662705002231,
       "id": 1
@@ -51,9 +49,7 @@
       "color": "green",
       "members": [
         "sumit@learnwithsumit.com",
-        "akash@learnwithsumit.com",
-        "hafizur@gmail.com",
-        "andrew@gmail.com"
+        "akash@learnwithsumit.com"
       ],
       "timestamp": 1662705002231,
       "id": 2
@@ -65,9 +61,7 @@
       "color": "purple",
       "members": [
         "sumit@learnwithsumit.com",
-        "akash@learnwithsumit.com",
-        "andrew@gmail.com",
-        "hafizur@gmail.com"
+        "akash@learnwithsumit.com"
       ],
       "timestamp": 1662705002231,
       "id": 3
@@ -78,10 +72,7 @@
       "color": "blue",
       "owner": "sumit@learnwithsumit.com",
       "members": [
-        "sumit@learnwithsumit.com",
-        "hafizur@gmail.com",
-        "akash@learnwithsumit.com",
-        "andrew@gmail.com"
+        "sumit@learnwithsumit.com"
       ],
       "timestamp": "2022-09-24T18:52:32.508Z",
       "id": 4
@@ -93,9 +84,7 @@
       "owner": "sumit@learnwithsumit.com",
       "members": [
         "sumit@learnwithsumit.com",
-        "hafizur@gmail.com",
-        "akash@learnwithsumit.com",
-        "andrew@gmail.com"
+        "hafizur@gmail.com"
       ],
       "timestamp": "2022-09-24T19:04:50.212Z",
       "id": 5
@@ -107,9 +96,7 @@
       "owner": "sumit@learnwithsumit.com",
       "members": [
         "sumit@learnwithsumit.com",
-        "akash@learnwithsumit.com",
-        "hafizur@gmail.com",
-        "andrew@gmail.com"
+        "akash@learnwithsumit.com"
       ],
       "timestamp": "2022-09-26T04:23:38.874Z",
       "id": 7
@@ -132,7 +119,6 @@
       "title": "Ongoing Development Project",
       "color": "green",
       "owner": "sumit@learnwithsumit.com",
-      "match": false,
       "stage": "Doing",
       "timestamp": "2022-09-26T04:23:38.874Z",
       "avatar": "https://avatars.githubusercontent.com/u/1416832?v=4",
@@ -143,7 +129,6 @@
       "title": "This is our new Design Project",
       "color": "pink",
       "owner": "sumit@learnwithsumit.com",
-      "match": false,
       "stage": "Done",
       "timestamp": "2022-09-26T04:23:38.874Z",
       "avatar": "https://avatars.githubusercontent.com/u/1416832?v=4",
@@ -154,7 +139,6 @@
       "title": "Our all famous Test Project",
       "color": "purple",
       "owner": "sumit@learnwithsumit.com",
-      "match": false,
       "stage": "Doing",
       "timestamp": "2022-09-26T04:23:38.874Z",
       "avatar": "https://avatars.githubusercontent.com/u/1416832?v=4",
@@ -165,7 +149,6 @@
       "title": "This is our oldest Business Project",
       "color": "blue",
       "owner": "sumit@learnwithsumit.com",
-      "match": false,
       "stage": "Backlog",
       "timestamp": "2022-09-26T04:23:38.874Z",
       "avatar": "https://avatars.githubusercontent.com/u/1416832?v=4",
@@ -176,7 +159,6 @@
       "title": "Agile Development Project",
       "color": "green",
       "owner": "sumit@learnwithsumit.com",
-      "match": false,
       "stage": "Backlog",
       "timestamp": "2022-09-26T04:23:38.874Z",
       "avatar": "https://avatars.githubusercontent.com/u/1416832?v=4",
@@ -187,7 +169,6 @@
       "title": "Copywriting Portfolio Project",
       "color": "indigo",
       "owner": "sumit@learnwithsumit.com",
-      "match": false,
       "stage": "Review",
       "timestamp": "2022-09-26T04:23:38.874Z",
       "avatar": "https://avatars.githubusercontent.com/u/1416832?v=4",
@@ -198,7 +179,6 @@
       "title": "Artificial Intelligence Development Project",
       "color": "purple",
       "owner": "sumit@learnwithsumit.com",
-      "match": false,
       "stage": "Ready",
       "timestamp": "2022-09-26T04:23:38.874Z",
       "avatar": "https://avatars.githubusercontent.com/u/1416832?v=4",
